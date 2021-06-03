@@ -7,7 +7,7 @@
 }
 
 .title {
-    background-image: linear-gradient(to right, #10bd44 , #313131);
+    background-image: linear-gradient(to bottom, #10bd44 , #313131);
     padding: 20px;
     color: white;
     border-radius: 5px;
@@ -71,7 +71,7 @@
 }
 
 .completed-item {
-    background-image: linear-gradient(to right, #10bd44 , #313131);
+    background-color: #0d9937;
     color: white;
     width: 320px;
     padding: 10px;
